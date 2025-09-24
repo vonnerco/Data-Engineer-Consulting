@@ -1,4 +1,4 @@
-# 🚀 Internal Practice Consultant - Sr Data Engineer
+# 🚀 Data Engineer Consulting
 
 [![Data Engineering](https://img.shields.io/badge/Data-Engineering-181717?style=for-the-badge&logo=databricks&logoColor=white)](https://github.com/vonnerco/Data-Engineer-Consulting/blob/main/Data%20Engineering%20Project.md)
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#-aws-data-services)
@@ -13,7 +13,7 @@ Enterprise data architecture specialist delivering scalable solutions and strate
 
 ## 🎯 Value Proposition
 
-**Proven Track Record in Internal Consulting Excellence**
+**Proven Track Record in Internal Data Engineering Consulting Excellence**
 - **10+ years** building enterprise data platforms for Fortune 500 internal practices
 - **1.2PB** data processing capability across multi-cloud infrastructure
 - **$16.3M** operational savings through platform optimization and automation
@@ -26,7 +26,7 @@ Enterprise data architecture specialist delivering scalable solutions and strate
 
 ## 🔧 Core Competencies
 
-### **🏗️ Technical Leadership**
+### **🏗️ Technical Knowledge**
 ```
 Enterprise Data Architecture:
 ├── 📊 Multi-Cloud Lakehouse → 1.2PB across AWS, Azure, GCP
@@ -43,7 +43,7 @@ Enterprise Data Architecture:
 | 📊 **Scale** | 1.2PB multi-cloud processing | Enterprise capability |
 | 🛡️ **Reliability** | 99.9% uptime | Mission-critical |
 
-### **🎯 Internal Consulting Excellence**
+### **🎯 Internal Data Engineer Consulting Excellence**
 - Strategic roadmap development for data transformation initiatives
 - Cross-functional team leadership and stakeholder alignment
 - Executive-level solution presentation and business case development
