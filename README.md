@@ -121,6 +121,6 @@ Streaming Analytics Stack:
 
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:corderio.vonner@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/corderiovonner)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vonnerco/Data-Engineer-Consulting)
+[![AI Consulting](https://img.shields.io/badge/AI-Consulting-181717?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/vonnerco/A.I-Consulting)
 
 *10+ years enterprise data platform expertise • Multi-cloud architecture • $16.3M proven savings • 99.9% uptime*
