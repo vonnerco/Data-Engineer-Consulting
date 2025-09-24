@@ -112,8 +112,8 @@ Streaming Analytics Stack:
 
 | Option | Model | Pricing | $ |
 |:---:|:---:|:---:|:---:|
-| 🔄 **Data Engineering Consulting** | Ad Hoc Expert Guidance | Project Scope | 30 mins $200 / 45 mins $300 / 1 hour $600 |
-| 🚀 **Build & Deploy** | Full Platform Implementation | Milestone-based | Platform 1 starts at $5,000 |
+| 🔄 **Data Engineering Consulting** | Ad Hoc Expert Guidance | Project Scope | 30 mins $80 / 45 mins $120 / 1 hour $160 |
+| 🚀 **Build & Deploy** | Full Platform Implementation | Milestone-based | Platform 1 starts at $1,000 |
 
 ---
 
