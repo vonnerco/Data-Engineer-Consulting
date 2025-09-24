@@ -1,4 +1,4 @@
-# 🏗️ Data Engineering System: Multi-Cloud Enterprise Data Platform
+# 🏗️ Data Engineering Multi-Cloud Enterprise 
 
 [![Data Engineering](https://img.shields.io/badge/Data-Engineering-181717?style=for-the-badge&logo=databricks&logoColor=white)](https://github.com/vonnerco/Data-Engineer-Consulting/blob/main/Data%20Engineer%20Consulting.md)
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#-aws-data-engineering-services)
@@ -7,7 +7,7 @@
 [![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)](#%EF%B8%8F-snowflake-data-cloud-platform)
 [![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](#-databricks-lakehouse-platform)
 
-## 🎯 System Overview
+## 🎯 Portfolio Overview
 Architected enterprise-scale data platform for Fortune 500 financial services company managing **$47B in assets** across **2,300+ clients**. Unified **1.2PB** of disparate financial data from **34 legacy systems** into centralized lakehouse architecture with **99.9% uptime** and **sub-second query performance**.
 
 ---
@@ -203,7 +203,7 @@ Enterprise Features:
 
 ---
 
-## 📈 Production Impact
+## 📈 Production Impact of the Technical Challenges
 
 | **Metric Category** | **Achievement** | **Business Value** |
 |:---:|:---:|:---:|
@@ -215,7 +215,7 @@ Enterprise Features:
 
 ---
 
-## 📞 Contact
+## 📞 Contact 
 
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:corderio.vonner@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/corderiovonner)
