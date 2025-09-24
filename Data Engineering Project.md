@@ -12,6 +12,12 @@ Architected enterprise-scale data platform for Fortune 500 financial services co
 
 ---
 
+## 🚀 Architecture Innovation
+
+> **Industry-First Achievement**: Built federated data mesh architecture enabling autonomous domain teams while maintaining centralized governance. System automatically optimizes workload placement across clouds based on cost, compliance, and performance requirements without manual intervention.
+
+---
+
 ## 🏛️ Technical Architecture
 
 ### **🔧 Core Infrastructure**
@@ -45,29 +51,6 @@ Cloud Service Matrix:
 
 ---
 
-## 🚧 Biggest Technical Challenges Solved
-
-| **Challenge** | **Problem** | **Solution** | **Result** |
-|:---:|:---:|:---:|:---:|
-| 🔄 **Legacy Migration** | 34 legacy systems, 15 years data, zero downtime | Incremental framework with dual-write pattern | **100% fidelity**, 6 months ahead |
-| 🛡️ **Fraud Detection** | $2.8B daily volume, <100ms scoring required | Kafka Streams + Snowflake Dynamic Tables | **99.97% accuracy**, $47M prevented |
-| ⚖️ **Compliance Scale** | SOX, Basel III, GDPR across 12 jurisdictions | Automated compliance with immutable logs | **100% audit success**, $12M saved |
-| 💰 **Cost Optimization** | $8.2M spend with 40% waste | Intelligent tiering + workload allocation | **52% reduction**, $4.3M savings |
-
----
-
-## 📈 Production Impact
-
-| **Metric Category** | **Achievement** | **Business Value** |
-|:---:|:---:|:---:|
-| 📊 **Data Processing** | 1.2PB managed across multi-cloud | Enterprise-scale capability |
-| 💰 **Cost Savings** | $16.3M operational savings | Platform optimization ROI |
-| ⚡ **Performance** | 847x faster queries (45min → 3.2s) | Real-time analytics capability |
-| 📏 **Scale** | 47 business units, 12M daily transactions | Enterprise-wide adoption |
-| 🛡️ **Reliability** | 99.9% uptime, 3-region DR | Mission-critical availability |
-
----
-
 ## 🛠️ Key Technologies
 
 ### **Cloud Platforms**
@@ -87,12 +70,6 @@ Modern Data Stack:
 ├── ⚙️ Processing → Apache Spark, dbt, Airflow
 └── 📊 Monitoring → Datadog, Prometheus, Grafana
 ```
-
----
-
-## 🚀 Architecture Innovation
-
-> **Industry-First Achievement**: Built federated data mesh architecture enabling autonomous domain teams while maintaining centralized governance. System automatically optimizes workload placement across clouds based on cost, compliance, and performance requirements without manual intervention.
 
 ---
 
@@ -212,6 +189,29 @@ Enterprise Features:
 ├── 🌐 Cross-Cloud Connectivity → Seamless multi-cloud integration
 └── 🔒 Compliance Framework → SOX, HIPAA, GDPR-ready platform
 ```
+
+---
+
+## 🚧 Biggest Technical Challenges Solved
+
+| **Challenge** | **Problem** | **Solution** | **Result** |
+|:---:|:---:|:---:|:---:|
+| 🔄 **Legacy Migration** | 34 legacy systems, 15 years data, zero downtime | Incremental framework with dual-write pattern | **100% fidelity**, 6 months ahead |
+| 🛡️ **Fraud Detection** | $2.8B daily volume, <100ms scoring required | Kafka Streams + Snowflake Dynamic Tables | **99.97% accuracy**, $47M prevented |
+| ⚖️ **Compliance Scale** | SOX, Basel III, GDPR across 12 jurisdictions | Automated compliance with immutable logs | **100% audit success**, $12M saved |
+| 💰 **Cost Optimization** | $8.2M spend with 40% waste | Intelligent tiering + workload allocation | **52% reduction**, $4.3M savings |
+
+---
+
+## 📈 Production Impact
+
+| **Metric Category** | **Achievement** | **Business Value** |
+|:---:|:---:|:---:|
+| 📊 **Data Processing** | 1.2PB managed across multi-cloud | Enterprise-scale capability |
+| 💰 **Cost Savings** | $16.3M operational savings | Platform optimization ROI |
+| ⚡ **Performance** | 847x faster queries (45min → 3.2s) | Real-time analytics capability |
+| 📏 **Scale** | 47 business units, 12M daily transactions | Enterprise-wide adoption |
+| 🛡️ **Reliability** | 99.9% uptime, 3-region DR | Mission-critical availability |
 
 ---
 
