@@ -117,10 +117,14 @@ Streaming Analytics Stack:
 
 ---
 
-## 📞 Contact
+## 🎯 Next Steps
 
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:corderio.vonner@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/corderiovonner)
-[![AI Consulting](https://img.shields.io/badge/AI-Consulting-181717?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/vonnerco/A.I-Consulting)
+## 📫 Connect & Collaborate
 
-*10+ years enterprise data platform expertise • Multi-cloud architecture • $16.3M proven savings • 99.9% uptime*
+[![Vonnerco](https://img.shields.io/badge/Vonnerco-AI%20Consulting-FF6B6B?style=for-the-badge&logo=robot&logoColor=white)](https://www.vonnerco.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vonnerco/A.I-Consulting)
+
+---
+
+*Transforming Enterprise AI through Secure, Scalable, & human-centric AI Engineering solutions.*
