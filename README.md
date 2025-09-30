@@ -1,6 +1,5 @@
 # 🏗️ Data Engineering Consulting Portfolio
 
-[![Data Engineering](https://img.shields.io/badge/Data-Engineering-181717?style=for-the-badge&logo=databricks&logoColor=white)](https://github.com/vonnerco/Data-Engineer-Consulting)
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#-aws-expertise)
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](#-azure-solutions)
 [![GCP](https://img.shields.io/badge/GCP-34A853?style=for-the-badge&logo=googlecloud&logoColor=white)](#-gcp-analytics)
